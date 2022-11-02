@@ -16,6 +16,8 @@ public class LogicalOp {
 		
 		result = !(num1 != 0);
 		System.out.println("0인가? : " + result);
+		
+
 	}
 
 }

@@ -13,6 +13,7 @@ public class breakBasic2 {
 			System.out.println(num); //5,7의 배수인 겨우만 실행
 		}
 		System.out.println("1~100까지 숫자 중 5의 배수이자 7의 배수인 숫자 갯수 : " + count);
+		
 	}
 
 }
