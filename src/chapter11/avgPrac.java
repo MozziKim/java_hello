@@ -1,5 +1,6 @@
 package chapter11;
 import java.util.*;
+//커밋테스트
 
 class Grade{
 	private int math, science, english;
